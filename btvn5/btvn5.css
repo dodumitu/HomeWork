@@ -1,0 +1,46 @@
+#container {
+  background-color: rgb(211, 202, 176); margin-top: 50px; display: inline-block;
+  padding-top: 20px;
+  width: 100%;
+  text-align: center;
+}
+#d1 {
+  float: left;
+  width: 150px;
+}
+
+#d2 {
+  float: left;
+  width: 130px;
+  border-left: 1px solid #262626;
+  border-right: 1px solid #262626;
+}
+
+#d3 {
+  float: right;
+  width: 130px;
+}
+#buttons {
+  margin-top: 50px;
+  width: 75%;
+  text-align: center;
+}
+.b {
+  float: right;
+  width: 50px;
+}
+
+#fl {
+  margin-top: 100px;
+  width: auto;
+  text-align: center;
+}
+.pic1{
+  width: 40px;
+  height: 40px
+}
+.pic2{
+  width: 30px;
+  height: 30px;
+}
+
